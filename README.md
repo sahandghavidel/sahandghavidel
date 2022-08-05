@@ -3,6 +3,7 @@
 - 🌱 I’m currently teaching JavaScript, React.js, Next.js and Tailwind CSS on Udemy
 - 📫 You can reach me by twitter @codewithsahand
 - 📫 Check my website for udemy courses https://sahandghavidel.com
+- 🌱 Check my YouTube Channel https://www.youtube.com/c/JavaScriptKing
 
 <!---
 sahandghavidel/sahandghavidel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
