@@ -4,6 +4,7 @@
 - 📫 You can reach me by twitter @codewithsahand
 - 📫 Check my website for udemy courses https://sahandghavidel.com
 - 🌱 Check my YouTube Channel https://www.youtube.com/codewithsahand
+- 📫 100 js projects https://www.100jsprojects.com
 
 <!---
 sahandghavidel/sahandghavidel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
