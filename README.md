@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @sahandghavidel
 - 👀 I’m interested in JavaScript, React.js, and Next.js
 - 🌱 I’m currently teaching JavaScript, React.js, Next.js and Tailwind CSS on Udemy
-- 📫 You can reach me by twitter @codewithsahand
-- 📫 Check my website for udemy courses https://sahandghavidel.com
-- 🌱 Check my YouTube Channel https://www.youtube.com/codewithsahand
+- 📫 You can reach me by email codewithsahand@gmail.com
 - 📫 100 js projects https://www.100jsprojects.com
 
 <!---
